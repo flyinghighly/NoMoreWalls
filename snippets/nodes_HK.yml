@@ -1,30 +1,38 @@
 proxies:
+- alterId: 0
+  cipher: auto
+  name: 1|🇭🇰3 |  3.7MB/s|16%|Disney|Yout...
+  network: ws
+  port: 8080
+  server: 64f6e0b2-sw1z40-t51bp0-1nyy5.hgc1.tcpbbr.net
+  servername: broadcastlv.chat.bilibili.com
+  skip-cert-verify: false
+  tls: false
+  type: vmess
+  uuid: 8f7cb770-1305-11ee-b107-f23c91cfbbc9
+  ws-opts:
+    headers:
+      Host: 64f6e0b2-sw1z40-t51bp0-1nyy5.hgc1.tcpbbr.net
+    path: /
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇭🇰香港 02 | 1x HK
-  password: f8be5f0d-e58c-4de8-90d8-97edd2bdff94
+  name: 1|🇭🇰5 |  2.4MB/s|0%|Youtube
+  password: be443689-bc64-49ff-85a5-8eecaa2235d3
+  port: 41049
+  server: hk2.fgmcx.top
+  tfo: false
+  type: ss
+- cipher: chacha20-ietf-poly1305
+  name: 2|🇭🇰香港 02 | 1x HK
+  password: f4032a0d-04ba-4886-9c0f-603075e08e74
   port: 31143
   server: free.2apzhfa.xyz
   type: ss
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 1|🇭🇰香港家宽 03 | 1x HK
-  password: f8be5f0d-e58c-4de8-90d8-97edd2bdff94
+  name: 2|🇭🇰香港家宽 03 | 1x HK
+  password: f4032a0d-04ba-4886-9c0f-603075e08e74
   port: 31145
   server: free.2apzhfa.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇭🇰 香港 02 | 1x HK
-  password: defa1a25-452f-40ff-bab5-e4b85d93297e
-  port: 36143
-  server: free.2weradf.xyz
-  type: ss
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  name: 2|🇭🇰 香港住宅IP 03 | 1x HK
-  password: defa1a25-452f-40ff-bab5-e4b85d93297e
-  port: 36145
-  server: free.2weradf.xyz
   type: ss
   udp: true
 - client-fingerprint: chrome
