@@ -1,9 +1,9 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|5🇭🇰香港|官网：abluecloud.xyz
-  password: 8e460aff-63c2-4aca-9490-72d648a6c536
-  port: 36141
-  server: freea.glyphara.com
+  name: 1|4🇭🇰香港|官网：m5c3cloud.pro
+  password: 7deae003-606e-4b19-b657-ae8fcc958f2a
+  port: 31141
+  server: freem.vidalith.com
   type: ss
   udp: true
 - client-fingerprint: chrome
