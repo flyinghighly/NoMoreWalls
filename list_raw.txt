@@ -40,7 +40,9 @@ hysteria2://Jz40_mIJ934vK0_k9D3jz92_Vx48q_GHa1_sz0@93.114.194.120:8443?sni=grape
 hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=www.microsoft.com#8%7C%F0%9F%87%B1
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@77.74.123.134:8443?sni=grape-zet-turbo-nl.yyuyy.com#8%7C%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@86.107.178.66:8443?insecure=1&sni=grape-zet-turbo-nl.yyuyy.com#8%7C%E8%8D%B7%E5%85%B0%20%231
-hysteria2://STYyftThFn@freedom.chenlan.top:12765?insecure=1&sni=freedom.chenlan.top#8%7CJP
+hysteria2://STYyftThFn@freedom.chenlan.top:12765?insecure=1&sni=#8%7C%40GozargahAzad%7C%F0%9F%87%B7
+hysteria2://STYyftThFn@freedom.chenlan.top:12765?insecure=1&sni=freedom.chenlan.top#8%7C%F0%9F%87%B4137070%20%7C%20Telegram%20%3D%20t.me/SOSk...
+hysteria2://STYyftThFn@soskeynets.chenlan.top:12765?insecure=1&sni=freedom.chenlan.top#8%7C%F0%9F%87%B7%F0%9F%87%B4137070%20%7C%20%E2%9A%A1%EF%B8%8FTelegram%20%3D%20t.me/S...
 hysteria2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@23.95.75.151:8443?sni=hopp-us.yyuyy.com#8%7C%F0%9F%87%BA%F0%9F%87%B8%E7%BE%8E%E5%9B%BD
 hysteria2://a000fb47-5dfd-4a6b-9739-2878883d6969@uswx4.wxgqlfx.vip:36253?insecure=1&sni=144.225.187.153#8%7C%E7%BE%8E%E5%9B%BD4%40wxgqlfx%23%E7%BE%8E%E5%9B%BD
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=0&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%2C9%7C%DA%A9%D8%A7%D9%86%D8%A7%D9%84%20%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%20%3A%20Free_VPN_CH%40
